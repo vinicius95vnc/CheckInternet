@@ -1,0 +1,7 @@
+C:\Users\ViniciusGomes\source\repos\testec\obj\Debug\testec.csproj.AssemblyReference.cache
+C:\Users\ViniciusGomes\source\repos\testec\obj\Debug\testec.csproj.CoreCompileInputs.cache
+C:\Users\ViniciusGomes\source\repos\testec\bin\Debug\testec.exe.config
+C:\Users\ViniciusGomes\source\repos\testec\bin\Debug\testec.exe
+C:\Users\ViniciusGomes\source\repos\testec\bin\Debug\testec.pdb
+C:\Users\ViniciusGomes\source\repos\testec\obj\Debug\testec.exe
+C:\Users\ViniciusGomes\source\repos\testec\obj\Debug\testec.pdb
